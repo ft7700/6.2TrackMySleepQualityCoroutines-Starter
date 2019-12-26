@@ -1,0 +1,4 @@
+#Thu Dec 26 22:26:36 SGT 2019
+base.0=C\:\\Users\\FT\\Desktop\\TrackMySleepQualityCoroutines-Starter 6.2,6.3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

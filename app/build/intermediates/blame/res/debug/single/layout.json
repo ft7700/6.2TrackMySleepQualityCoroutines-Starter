@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\FT\\Desktop\\TrackMySleepQualityCoroutines-Starter 6.2,6.3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_tracker.xml",
+        "source": "C:\\Users\\FT\\Desktop\\TrackMySleepQualityCoroutines-Starter 6.2,6.3\\app\\src\\main\\res\\layout\\fragment_sleep_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\FT\\Desktop\\TrackMySleepQualityCoroutines-Starter 6.2,6.3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_quality.xml",
+        "source": "C:\\Users\\FT\\Desktop\\TrackMySleepQualityCoroutines-Starter 6.2,6.3\\app\\src\\main\\res\\layout\\fragment_sleep_quality.xml"
+    }
+]
